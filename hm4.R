@@ -1,4 +1,4 @@
-etwd("~/Desktop")
+setwd("~/Desktop")
 pro<-read.csv('pro.csv')
 attach(pro)
 library(stargazer)
